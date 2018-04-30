@@ -10,7 +10,7 @@ Web Application Development
 Jonathan Garcia
 
 ### View Project Online:
-https://jfg16.github.io/
+https://jfg16.github.io/L7_MyRecipe/
 
 ### Project Description Features:
 1. DOM Transversal, clicking the titles ingredients & instructions
